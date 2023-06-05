@@ -1,6 +1,4 @@
-#robin Singh
-#CECS 378 Malware LAB
-#04-07-2023
+
 
 import mmap
 # in the following we defined character data with their hex offsets
